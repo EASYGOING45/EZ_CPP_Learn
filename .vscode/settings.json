@@ -73,6 +73,9 @@
     "ranges": "cpp",
     "stdexcept": "cpp",
     "streambuf": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "bitset": "cpp",
+    "list": "cpp",
+    "fstream": "cpp"
   }
 }
